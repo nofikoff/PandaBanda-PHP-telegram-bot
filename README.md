@@ -1,5 +1,5 @@
 # PandaBanda-PHP-telegram-bot
-Интеграция с Poster - отправка задачи курьеру
+Интеграция с Poster CRM - отправка задачи курьеру
 
 
 
